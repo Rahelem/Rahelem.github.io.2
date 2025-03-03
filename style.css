@@ -5,7 +5,8 @@ body {
 
 
 h1 { 
-    color: rgb(58, 57, 57)
+    color: rgb(58, 57, 57);
+    
 }
 
 .projects {
@@ -17,6 +18,10 @@ h1 {
 
 }
 
-a {
-    margin: 10px
+.projects h2 {
+    margin-top: 20px;
+}
+
+a {display: inline-block;
+    margin: 10px;
 }
