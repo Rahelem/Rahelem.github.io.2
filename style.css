@@ -1,0 +1,18 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+h1 { 
+    color: rgb(58, 57, 57)
+}
+
+.projects {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #345;
+
+}
